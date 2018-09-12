@@ -571,6 +571,8 @@ MonoBehaviour:
   layermask:
     serializedVersion: 2
     m_Bits: 1
+  doorAssist: {fileID: 0}
+  door14: {fileID: 0}
 --- !u!1 &723412259
 GameObject:
   m_ObjectHideFlags: 0
@@ -1623,7 +1625,7 @@ GameObject:
   - component: {fileID: 1668240832}
   - component: {fileID: 1668240831}
   m_Layer: 0
-  m_Name: Door 14
+  m_Name: Door_14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
