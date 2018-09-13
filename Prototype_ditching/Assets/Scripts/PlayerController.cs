@@ -10,12 +10,15 @@ public class PlayerController : MonoBehaviour
     public GameObject doorAssist;
     public GameObject door14;
     public GameObject slideToSpawn;
+    public GameObject planeSlide;
 
     private void Start()
     {
         doorAssist = GameObject.Find("/BoeingInterior/BP_AirplaneDoor2");
         door14 = GameObject.Find("/BoeingInterior/BP_AirplaneDoor2");
         Debug.Log("hello there");
+        planeSlide = GameObject.Find("plane_slide");
+        planeSlide.SetActive(false);
     }
 
 
@@ -42,10 +45,17 @@ public class PlayerController : MonoBehaviour
 
     private void OpenDoor()
     {
-        door14.transform.position = new Vector3(-3.08f, 1.28f, 1.258f);
-        SpawnSlide();
+        door14.transform.position = new Vector3(0.002f, 0.0f, 15.1f);
+        //SpawnSlide();
+        ShowSlide();
     }
 
+    private void ShowSlide()
+    {
+        planeSlide.SetActive(true);
+    }
+
+    //Not Being Used
     private void SpawnSlide()
     {
         Debug.Log("Slide is spawned");
