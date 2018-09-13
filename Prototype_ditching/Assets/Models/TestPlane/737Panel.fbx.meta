@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: e1d7a02a4ab426c4c8c2b1441a0e9f45
+timeCreated: 1521798922
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pasted__Box003
+    100004: pasted__glass
+    100006: pasted__glass001
+    100008: pasted__Object001
+    100010: pasted__Object002
+    100012: pasted__Plane001
+    100014: pasted__Plane003
+    100016: pasted__window_blind
+    400000: //RootNode
+    400002: pasted__Box003
+    400004: pasted__glass
+    400006: pasted__glass001
+    400008: pasted__Object001
+    400010: pasted__Object002
+    400012: pasted__Plane001
+    400014: pasted__Plane003
+    400016: pasted__window_blind
+    2100000: pasted__cabin
+    2100002: pasted__Plastic Coarse Textured - Dark Gray
+    2100004: pasted__01 - Default
+    2100006: pasted__window_frame
+    2100008: 'pasted__Material #12'
+    2100010: lambert1
+    2300000: pasted__Box003
+    2300002: pasted__glass
+    2300004: pasted__glass001
+    2300006: pasted__Object001
+    2300008: pasted__Object002
+    2300010: pasted__Plane001
+    2300012: pasted__Plane003
+    2300014: pasted__window_blind
+    3300000: pasted__Box003
+    3300002: pasted__glass
+    3300004: pasted__glass001
+    3300006: pasted__Object001
+    3300008: pasted__Object002
+    3300010: pasted__Plane001
+    3300012: pasted__Plane003
+    3300014: pasted__window_blind
+    4300000: pasted__Plane001
+    4300002: pasted__glass
+    4300004: pasted__Object001
+    4300006: pasted__glass001
+    4300008: pasted__Object002
+    4300010: pasted__Plane003
+    4300012: pasted__Box003
+    4300014: pasted__window_blind
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: b03e50db60e4d4a0287d916490288b95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__01 - Default
+    second: {fileID: 2100000, guid: f0f6204f05ad54320b462b753cfe6d80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'pasted__Material #12'
+    second: {fileID: 2100000, guid: 8d9639dd2b5e5417fa0769445238b458, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plastic Coarse Textured - Dark Gray
+    second: {fileID: 2100000, guid: 6d713086e0fd4410ba322c72910126e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__cabin
+    second: {fileID: 2100000, guid: e5d01758638274d30998fd593e7bfc58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__window_frame
+    second: {fileID: 2100000, guid: b9aa434cc34f846dbb3acea51ad8cc07, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
