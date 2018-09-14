@@ -26,6 +26,7 @@ public class EquipmentSelection : MonoBehaviour
             if (Physics.Raycast(ray, out hit, rayLength, layermask))
             {
                 Debug.Log(hit.collider.name);
+
                 if (hit.collider.name == name)
                 {
                     Debug.Log("Something was clicked!");
